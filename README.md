@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @duckyduckofficial
 - 👀 I’m interested in Roblox exploiting
 - 🌱 I’m currently learning to code in Lua
-- 💞️ I’m working on Riot Hub (keyless and big roblox cheat hub)
+- 💞️ I’m working on Riot Hub (keyless and up-and-coming roblox cheat hub)
 - 📫 How to reach me: duckyduckcontact@gmail.com
 
 <!---
